@@ -4,6 +4,9 @@ import { environment } from './environments/environment';
 import { RootModule } from './root.module';
 import { hmrBootstrap } from './hmr';
 
+import { AppModule } from './app/app.module';
+import { getThemeColor, setThemeColor } from './app/utils/util';
+
 import 'moment/min/locales.min';
 import 'moment-timezone';
 
@@ -29,3 +32,20 @@ if (environment.hmr) {
 } else {
     bootstrap(); // Regular bootstrap
 }
+
+const color =
+  environment.isMultiColorActive || environment.isDarkSwitchActive
+    ? getThemeColor()
+    : environment.defaultColor;
+
+import('./assets/css/sass/themes/vien.' + color + '.scss?ngGlobalStyle')
+  .then((x) => {
+    setThemeColor(color);
+    platformBrowserDynamic()
+      .bootstrapModule(AppModule)
+      .catch((err) => console.error(err));
+  })
+  .catch(() => {
+    setThemeColor(null);
+    window.location.reload();
+  });
