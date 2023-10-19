@@ -1,0 +1,12 @@
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\bin\Debug\net7.0\Souccar.Core.deps.json
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\bin\Debug\net7.0\Souccar.Core.dll
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\bin\Debug\net7.0\Souccar.Core.pdb
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.csproj.AssemblyReference.cache
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.AssemblyInfoInputs.cache
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.AssemblyInfo.cs
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.csproj.CoreCompileInputs.cache
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.dll
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\refint\Souccar.Core.dll
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\Souccar.Core.pdb
+D:\GIT HUB\Souccar-Framework\Souccar-Framework\aspnet-core\src\Souccar.Core\obj\Debug\net7.0\ref\Souccar.Core.dll
